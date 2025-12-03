@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
+  <diagram name="Página-1" id="lRedTFr8z9T2z8x9tCYB">
+    <mxGraphModel dx="1213" dy="1043" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YOGH5JrhGmOOTskjHV3x-10" value="" style="group" parent="1" connectable="0" vertex="1">
+          <mxGeometry x="290" y="-65" width="224" height="224" as="geometry" />
+        </mxCell>
+        <mxCell id="YOGH5JrhGmOOTskjHV3x-11" value="&lt;u&gt;O (Opportunity)-&lt;/u&gt;&lt;div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" parent="YOGH5JrhGmOOTskjHV3x-10" vertex="1">
+          <mxGeometry width="224" height="224" as="geometry" />
+        </mxCell>
+        <mxCell id="MVUgCIOQGdRuLSEtLBsW-13" value="Tempo de produção do projeto; Tipo de sensor(es) a ser utilizado(s) (custo do(s) sensor(es); Materiais para a produção da cadeira; Projeção da cadeira (forma física p/ diferencia-la); Manutenção do equipamento.&lt;div&gt;Monitorização do produto em tempo real.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="YOGH5JrhGmOOTskjHV3x-10">
+          <mxGeometry x="32.5" y="108" width="159" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="YOGH5JrhGmOOTskjHV3x-13" value="" style="group" parent="1" connectable="0" vertex="1">
+          <mxGeometry x="25.5" y="-65" width="224" height="224" as="geometry" />
+        </mxCell>
+        <mxCell id="YOGH5JrhGmOOTskjHV3x-14" value="&lt;u&gt;S (Strong)-&lt;/u&gt;&lt;div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" parent="YOGH5JrhGmOOTskjHV3x-13" vertex="1">
+          <mxGeometry width="224" height="224" as="geometry" />
+        </mxCell>
+        <mxCell id="YOGH5JrhGmOOTskjHV3x-15" value="Reaproveitamento de materiais para produção;&lt;br&gt;Monitorização para correção de postura do utilizador;&lt;br&gt;Ajuste fácil e intuitivo da cadeira;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="YOGH5JrhGmOOTskjHV3x-13" vertex="1">
+          <mxGeometry x="32.5" y="100.5" width="159" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="YOGH5JrhGmOOTskjHV3x-19" value="" style="group" parent="1" connectable="0" vertex="1">
+          <mxGeometry x="649" y="-65" width="225" height="142" as="geometry" />
+        </mxCell>
+        <mxCell id="YOGH5JrhGmOOTskjHV3x-18" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="YOGH5JrhGmOOTskjHV3x-19" vertex="1">
+          <mxGeometry width="225" height="142" as="geometry" />
+        </mxCell>
+        <mxCell id="YOGH5JrhGmOOTskjHV3x-17" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="YOGH5JrhGmOOTskjHV3x-19" vertex="1">
+          <mxGeometry x="22.5" y="11" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="MVUgCIOQGdRuLSEtLBsW-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="651.79" y="125.71000000000004" width="233" height="376.5799999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="MVUgCIOQGdRuLSEtLBsW-3" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="MVUgCIOQGdRuLSEtLBsW-7">
+          <mxGeometry x="-71.78999999999996" y="71.78999999999996" width="376.58" height="233" as="geometry" />
+        </mxCell>
+        <mxCell id="MVUgCIOQGdRuLSEtLBsW-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Problemas a serem resolvidos;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&quot; Para melhorar a qualidade de vida de pessoas que utilizam de&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="MVUgCIOQGdRuLSEtLBsW-7">
+          <mxGeometry x="6.5" y="15.29" width="220" height="352.71" as="geometry" />
+        </mxCell>
+        <mxCell id="MVUgCIOQGdRuLSEtLBsW-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="25.5" y="192" width="224" height="224" as="geometry" />
+        </mxCell>
+        <mxCell id="84sVDkQxBeTk0dkn_4E4-2" value="&lt;u&gt;W (Weakness)-&lt;/u&gt;&lt;div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" parent="MVUgCIOQGdRuLSEtLBsW-8" vertex="1">
+          <mxGeometry width="224" height="224" as="geometry" />
+        </mxCell>
+        <mxCell id="YOGH5JrhGmOOTskjHV3x-3" value="Tempo de produção do projeto; Tipo de sensor(es) a ser utilizado(s) (custo do(s) sensor(es); Materiais para a produção da cadeira; Projeção da cadeira (forma física p/ diferencia-la); Manutenção do equipamento.&lt;div&gt;Monitorização do produto em tempo real.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="MVUgCIOQGdRuLSEtLBsW-8" vertex="1">
+          <mxGeometry x="32.5" y="110.5" width="159" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="MVUgCIOQGdRuLSEtLBsW-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="290" y="192" width="224" height="224" as="geometry" />
+        </mxCell>
+        <mxCell id="YOGH5JrhGmOOTskjHV3x-8" value="&lt;u&gt;T (Threats)-&lt;/u&gt;&lt;div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" parent="MVUgCIOQGdRuLSEtLBsW-9" vertex="1">
+          <mxGeometry width="224" height="224" as="geometry" />
+        </mxCell>
+        <mxCell id="YOGH5JrhGmOOTskjHV3x-9" value="Produtos semelhantes no mercado; Publico alvo para o produto (local de utilização); Criação da prototipagem; Encontrar materiais (p/fabrico) compativeis com o local de utilização da cadeira (ex: materiais reciclaveis e anti estáticos);&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="MVUgCIOQGdRuLSEtLBsW-9" vertex="1">
+          <mxGeometry x="32.5" y="100.5" width="159" height="23" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
